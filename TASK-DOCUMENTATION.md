@@ -39,12 +39,8 @@ merged into dev, and finally merged into main.
 
 
 
+## Version Control Best Practices
 
-\## Version Control Best Practices
-
-
-
-The project follows a feature-branch workflow where changes are developed
-
-in separate branches and reviewed through Pull Requests before merging.
-
+This project follows Git best practices by using feature branches,
+pull requests, meaningful commits, a development branch, and a main
+branch for stable code.
